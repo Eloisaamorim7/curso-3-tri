@@ -1,7 +1,7 @@
 criaCartao(
-    'Felicidades',
-    'O que precisa para ser feliz?',
-    ' Fazer o que gosta!!!'
+    'Intercâmbio',
+    'O que precisa para ganhar o mundo?',
+    'Se dedicar nos seus objetivos para consquistalos'
 )
 
 criaCartao(
@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'Aluna mais dedicada na programação',
+    'A que mais se esforça as aulas do Prof de informática?',
+    'Eloisa Amorim'
 )
 
 criaCartao(
