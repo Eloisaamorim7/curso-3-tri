@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Palmeiras',
-    'Quantos titulo mundial o palmeiras têm?',
-    'Nenhum 🤣🤣🤣'
+    'Quantos invejosos o palmeiras têm?',
+    'muitos🤣'
 )
