@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Palmeiras',
     'Quantos invejosos o palmeiras têm?',
-    'muitos🤣'
+    'muitos principalmente o professor🤣'
 )
