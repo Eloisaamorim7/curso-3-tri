@@ -15,7 +15,7 @@ body {
     justify-content: space-between;
     padding: 4rem;
     gap: 3rem;
-    box-shadow: 1px 1px 20px purple;
+    box-shadow: 1px 1px 20px rgb(3, 134, 80);
 }
 
 .cartao {
@@ -23,7 +23,7 @@ body {
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
-    box-shadow: 1px 1px 20px purple;
+    box-shadow: 1px 1px 20px rgb(3, 97, 66);
 }
 
 .cartao__conteudo {
@@ -32,12 +32,12 @@ body {
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
-    box-shadow: 1px 1px 20px rgb(149, 0, 255);
+    box-shadow: 1px 1px 20px rgb(95, 199, 156);
 }
 
 .cartao__conteudo h3 {
     color: var(--text-color);
-    border: 4px solid purple;
+    border: 4px solid rgb(7, 184, 160);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -45,7 +45,7 @@ body {
     border-radius: 0.6rem;
     font-size: 1vw;
     backface-visibility: hidden;
-    box-shadow: 1px 1px 20px yellow;
+    box-shadow: 1px 1px 20px rgb(124, 141, 123);
 }
 
 .cartao__conteudo p {
@@ -86,13 +86,13 @@ body {
 
 footer {
     background-color: black;
-    color: blueviolet;
+    color: rgb(22, 5, 255);
     font-size: larger;
     position: fixed;
     bottom: 0;
     width: 100%;
     height: 3rem;
-    filter: drop-shadow(1px 1px 20px rgb(105, 10, 248));
+    filter: drop-shadow(1px 1px 20px rgb(3, 240, 200));
     border-radius: 10px;
     font-family: monospace;
     font-size: 22px;
@@ -128,7 +128,7 @@ footer p {
 }
 
 h1{
-    color: blueviolet;
+    color: rgb(0, 128, 32);
     font-size: larger;
     text-align: center;
     font-family: monospace;
