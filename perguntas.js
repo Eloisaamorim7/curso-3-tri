@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Informática',
     'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    '@rasinformática sempre'
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Palmeiras',
-    'Quantos invejosos o palmeiras têm?',
-    'muitos principalmente o professor🤣'
+    'Hacker',
+    'Quem podem seguir na carreira de hacker?',
+    'Apenas nosso profissional, Rafael Assis!'
 )
