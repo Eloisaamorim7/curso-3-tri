@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Hacker',
-    'Quem podem seguir na carreira de hacker?',
+    'Quem pode seguir na carreira de Hacker?',
     'Apenas nosso profissional, Rafael Assis!'
 )
